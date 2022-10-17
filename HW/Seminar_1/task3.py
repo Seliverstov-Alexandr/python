@@ -10,4 +10,4 @@ elif x<0 and y<0:
 elif x<0 and y>0:
     print ('Точка в 4 четверти')
 else:
-    print ('Введен 0')
+    print ('Ошибка! Введен 0')
